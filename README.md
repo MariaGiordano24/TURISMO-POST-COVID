@@ -59,7 +59,8 @@ Confronto tra regioni e crescita post-Covid
 
 ### 🌍 Stranieri
 Analisi del turismo internazionale in Italia  
-<img src="https://github.com/user-attachments/assets/a33ebe53-3ae4-4da3-952f890ac1eb02f7" width="100%"/>
+<img width="1292" height="725" alt="Stranieri" src="https://github.com/user-attachments/assets/d0618793-3757-48fe-941c-681166c41b01" />
+
 
 ---
 
