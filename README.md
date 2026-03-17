@@ -1,88 +1,97 @@
-# TURISMO POST-COVID
+# 🌍 TURISMO POST-COVID  
 ## Analisi del Turismo in Italia ed Europa
 
+---
+
 ## 📊 Obiettivo del progetto
-L’obiettivo di questo progetto è analizzare l’andamento del turismo in Italia e confrontarlo con altri principali paesi europei (Germania, Francia e Spagna).
+L’obiettivo di questo progetto è analizzare l’andamento del turismo in Italia e confrontarlo con altri principali paesi europei: **Germania, Francia e Spagna**.
 
 In particolare, l’analisi si concentra su:
-- l’impatto della pandemia sul turismo
-- la ripresa post-Covid
-- la distribuzione regionale dei pernottamenti
-- il comportamento dei turisti stranieri
-- il confronto tra i principali paesi europei
+- impatto della pandemia sul turismo  
+- ripresa post-Covid  
+- distribuzione regionale dei pernottamenti  
+- comportamento dei turisti stranieri  
+- confronto tra i principali paesi europei  
 
 ---
 
 ## 📁 Dataset e fonti
 I dati utilizzati provengono da fonti ufficiali:
 
-- ISTAT → dati sul turismo in Italia (pernottamenti, regioni, turisti stranieri)
-- Eurostat → dati sul turismo europeo (confronto tra paesi)
-- Banca d'Italia → dati sul turismo straniero e incidenza economica 
+- **ISTAT** → turismo in Italia (pernottamenti, regioni, stranieri)  
+- **Eurostat** → confronto europeo  
+- **Banca d’Italia** → turismo straniero e impatto economico  
 
 ---
 
 ## 🛠️ Tecnologie utilizzate
 
 - **Excel**  
-  Utilizzato per una prima esplorazione dei dati e supporto alla pulizia.
+  Prima esplorazione dei dati e supporto alla pulizia  
 
 - **Python**  
-  Utilizzato per la pulizia, manipolazione e preparazione dei dati.
+  Pulizia, manipolazione e preparazione dei dati  
 
 - **Power BI**  
-  Utilizzato per la modellazione dei dati, creazione di misure DAX e sviluppo della dashboard e report interattivi.
+  Modellazione dati, creazione misure DAX e sviluppo di dashboard e report interattivi  
 
 ---
 
 ## 📌 Struttura del progetto
 
-Il report è composto da diverse sezioni:
-
-- **Dashboard** → pagina iniziale con navigazione tra le sezioni
- <img width="1291" height="729" alt="Dashboard" src="https://github.com/user-attachments/assets/0137ceb3-3a45-402d-aac4-fd0954339c26"/>
-
+### 🧭 Dashboard
+Pagina iniziale con navigazione tra le sezioni  
+<img src="https://github.com/user-attachments/assets/0137ceb3-3a45-402d-aac4-fd0954339c26" width="100%"/>
 
 ---
-- **Italia** → analisi dell’andamento turistico nazionale
-   <img width="1289" height="725" alt="Italia" src="https://github.com/user-attachments/assets/1edce2be-63e2-475e-8000-bec64a8d90cc" />
 
-
----
-- **Regioni** → confronto tra regioni e crescita post-Covid
-  <img width="1293" height="722" alt="Regioni" src="https://github.com/user-attachments/assets/512e772f-c3a7-4ebe-8f5d-571f1cdf5b75" />
-
+### 🇮🇹 Italia
+Analisi dell’andamento turistico nazionale  
+<img src="https://github.com/user-attachments/assets/1edce2be-63e2-475e-8000-bec64a8d90cc" width="100%"/>
 
 ---
-- **Stranieri** → analisi del turismo internazionale in Italia
-  <img width="1292" height="725" alt="Stranieri" src="https://github.com/user-attachments/assets/a33ebe53-3ae4-4da3-952f890ac1eb02f7"/>
 
-
----
-- **Europa** → confronto tra Italia, Germania, Francia e Spagna
- <img width="1291" height="724" alt="Europa" src="https://github.com/user-attachments/assets/41a1926c-1c3d-4a8d-b509-bbdc1a3da2a7" />
+### 🗺️ Regioni
+Confronto tra regioni e crescita post-Covid  
+<img src="https://github.com/user-attachments/assets/512e772f-c3a7-4ebe-8f5d-571f1cdf5b75" width="100%"/>
 
 ---
-- **Conclusioni** → sintesi e insight principali
- <img width="1290" height="722" alt="Conclusioni" src="https://github.com/user-attachments/assets/8db10aa4-dfef-4217-9e71-1a5a48b4dc8d" />
+
+### 🌍 Stranieri
+Analisi del turismo internazionale in Italia  
+<img src="https://github.com/user-attachments/assets/a33ebe53-3ae4-4da3-952f890ac1eb02f7" width="100%"/>
 
 ---
-- **Contatti** → riferimenti e tecnologie utilizzate
-<img width="1288" height="724" alt="Contatti" src="https://github.com/user-attachments/assets/376fd233-0091-49a7-a856-28b9b6750f80" />
+
+### 🇪🇺 Europa
+Confronto tra Italia, Germania, Francia e Spagna  
+<img src="https://github.com/user-attachments/assets/41a1926c-1c3d-4a8d-b509-bbdc1a3da2a7" width="100%"/>
+
+---
+
+### 📌 Conclusioni
+Sintesi e insight principali  
+<img src="https://github.com/user-attachments/assets/8db10aa4-dfef-4217-9e71-1a5a48b4dc8d" width="100%"/>
+
+---
+
+### 📞 Contatti
+Riferimenti e tecnologie utilizzate  
+<img src="https://github.com/user-attachments/assets/376fd233-0091-49a7-a856-28b9b6750f80" width="100%"/>
 
 ---
 
 ## 📈 Principali risultati (Key Insights)
 
-- Il turismo ha subito un forte calo nel 2020 a causa della pandemia.
-- Dal 2021 si osserva una progressiva ripresa, con un recupero completo nel 2024.
-- Il Veneto è la regione con il maggior numero di pernottamenti.
-- Alcune regioni (come il Lazio) mostrano una crescita percentuale più elevata nel post-Covid.
-- La Lombardia, pur non essendo la prima per pernottamenti stranieri, genera la maggiore entrata monetaria.
-- A livello europeo, la Germania è il paese con più pernottamenti, seguita da Francia, Italia e Spagna.
-- Germania, Francia e Spagna hanno recuperato più rapidamente i livelli pre-Covid rispetto all’Italia.
-- La Spagna, pur essendo quarta per pernottamenti, ha superato i livelli del 2019 entro il 2024.
-- Il turismo è fortemente stagionale, con picchi nei mesi estivi (luglio e agosto).
+- Forte calo del turismo nel 2020 a causa della pandemia  
+- Ripresa progressiva dal 2021 con superamento dei livelli pre-Covid nel 2024  
+- Il Veneto è la regione con più pernottamenti  
+- Alcune regioni (es. Lazio) mostrano una crescita percentuale elevata nel post-Covid  
+- La Lombardia, pur non essendo prima per presenze straniere, genera la maggiore entrata economica  
+- A livello europeo, la Germania è prima per pernottamenti, seguita da Francia, Italia e Spagna  
+- Germania, Francia e Spagna recuperano più velocemente rispetto all’Italia  
+- La Spagna, pur quarta per volumi, supera i livelli del 2019 entro il 2024  
+- Forte stagionalità con picchi nei mesi estivi (luglio e agosto)  
 
 ---
 
@@ -90,13 +99,11 @@ Il report è composto da diverse sezioni:
 
 Il progetto è stato sviluppato tramite una dashboard interattiva in Power BI che consente di:
 
-- filtrare i dati per anno
-- confrontare paesi e regioni
-- analizzare trend temporali e stagionali
-
-
+- filtrare i dati per anno  
+- confrontare paesi e regioni  
+- analizzare trend temporali e stagionali  
 
 ---
 
 ## 👤 Autore
-Maria Giordano
+**Maria Giordano**
