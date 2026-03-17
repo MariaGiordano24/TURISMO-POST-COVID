@@ -41,15 +41,23 @@ Il report è composto da diverse sezioni:
 
 - **Dashboard** → pagina iniziale con navigazione tra le sezioni
  <img width="1291" height="729" alt="Dashboard" src="https://github.com/user-attachments/assets/0137ceb3-3a45-402d-aac4-fd0954339c26"/>
+
+
 ---
 - **Italia** → analisi dell’andamento turistico nazionale
    <img width="1289" height="725" alt="Italia" src="https://github.com/user-attachments/assets/1edce2be-63e2-475e-8000-bec64a8d90cc" />
+
+
 ---
 - **Regioni** → confronto tra regioni e crescita post-Covid
   <img width="1293" height="722" alt="Regioni" src="https://github.com/user-attachments/assets/512e772f-c3a7-4ebe-8f5d-571f1cdf5b75" />
+
+
 ---
 - **Stranieri** → analisi del turismo internazionale in Italia
   <img width="1292" height="725" alt="Stranieri" src="https://github.com/user-attachments/assets/a33ebe53-3ae4-4da3-952f890ac1eb02f7"/>
+
+
 ---
 - **Europa** → confronto tra Italia, Germania, Francia e Spagna
  <img width="1291" height="724" alt="Europa" src="https://github.com/user-attachments/assets/41a1926c-1c3d-4a8d-b509-bbdc1a3da2a7" />
